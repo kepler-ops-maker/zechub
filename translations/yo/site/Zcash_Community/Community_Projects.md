@@ -75,7 +75,7 @@ Awọn sisanwo ti ara ẹni fun intanẹẹti. Ko si ẹri, ko si KYC. Awọn on
 
 ### Èdè Àsìá ilẹ̀:
 O rọrun lati lo, apamọwọ Zcash ti o ni ọpọlọpọ awọn ẹya pẹlu atilẹyin autoshielding. 
-[Ìbẹ̀wò](https://blog.nerdbank.net/ezcash-app)
+[Ìbẹ̀wò](https://play.google.com/store/apps/details?id=com.Nerdbank.eZcash.App)
 
 ### Owó àpò Nozy
 Orchard-focused Zcash wallet built for Zebrad, supporting fully shielded transactions and secure key management.  
@@ -287,7 +287,7 @@ Awọn ohun elo ti o ni ẹtọ fun awọn owo-owo ati eto idibo Zcash, lati ṣ
 Zcash-abinibi DEX ti o mu awọn aabo ZEC sinu Web3 DeFi nipasẹ WalletConnect. 
 [Àjọ Ìjùmọ̀sọ́nà](https://forum.zcashcommunity.com/t/introducing-bazaarswap-bringing-zec-to-web3-defi/55479)
 
-### DCRDEX ì ¬ì§ ë ¤ë¥1⁄4 í ' ê°
+### DCRDEX ì ¬ì§ ë ¤ë¥1⁄4 í 'ê3
 Decreds decentralized exchange tí ó ń ṣe àtìlẹ́yìn fún Zcash. 
 [Ìbẹ̀wò](https://dex.decred.org)
 
